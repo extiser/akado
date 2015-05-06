@@ -1,0 +1,13 @@
+added @media quires support for ie. js fixed
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   akado.sublime-workspace
+#	modified:   markup/modules/head/head.jade
+#	modified:   markup/modules/tablet/script.js
+#	modified:   markup/modules/tablet/tablet.scss
+#	modified:   markup/pages/index.jade
+#	new file:   markup/static/misc/PIE.htc
+#	deleted:    markup/static/misc/humans.txt
+#
